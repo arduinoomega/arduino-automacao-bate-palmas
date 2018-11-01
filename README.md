@@ -3,8 +3,8 @@ Projeto de Automação Residencial simples com Arduino, Sensor de Som e Módulo 
 
 Tutorial completo pode ser visto <a href="http://portaldoarduino.com.br/automacao-residencial-acendimento-de-lampada-por-bate-palmas/" target="_blank">Portal do Arduino - Automação Residencial com Arduino - Acendimento de lâmpada por bate palmas</a>
 
-Canal do Lucas no YouTube: <a href="https://www.youtube.com/channel/UCpzWDkPHItOZmSwY7B4Gv0g" target="_blank">Lucas TUTO</a>
+<img src="http://portaldoarduino.com.br/wp-content/uploads/2018/08/esquematico.png" />
 
-Confira mais tutoriais em nosso blog:  <a href="http://portaldoarduino.com.br/" target="_blank">Portal do Arduino</a>
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/automacao-residencial-acendimento-de-lampada-por-bate-palmas/" target="_blank">Portal do Arduino - Automação Residencial com Arduino – Detecção de gases e incêncio com Módulo MQ-2</a>
 
-Faça bom uso!
+### Tutorial por Lucas Gomes do canal <a href="https://www.youtube.com/channel/UCpzWDkPHItOZmSwY7B4Gv0g">Lucas Tuto</a>
